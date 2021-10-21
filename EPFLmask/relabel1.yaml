@@ -1,0 +1,96 @@
+epfl_corridor/20141008_141323_00/rgb000000:
+  person:
+  - coords: [173, 128, 73, 260]
+    difficult: false
+    id: 3
+    lost: false
+    occluded_fraction: 100.0
+    truncated_fraction: 0.0
+  - coords: [174, 117, 57, 201]
+    difficult: false
+    id: 4
+    lost: false
+    occluded_fraction: 100.0
+    truncated_fraction: 0.0
+  - coords: [152, 57, 136, 340]
+    difficult: false
+    id: 5
+    lost: false
+    occluded_fraction: 0.0
+    truncated_fraction: 25.0
+  - coords: [318, 58, 115, 339]
+    difficult: false
+    id: 6
+    lost: false
+    occluded_fraction: 0.0
+    truncated_fraction: 0.0
+  - coords: [310, 106, 57, 244]
+    difficult: false
+    id: 7
+    lost: false
+    occluded_fraction: 25.0
+    truncated_fraction: 0.0
+epfl_corridor/20141008_141323_00/rgb000001:
+  person:
+  - coords: [173, 128, 73, 260]
+    difficult: false
+    id: 3
+    lost: false
+    occluded_fraction: 100.0
+    truncated_fraction: 0.0
+  - coords: [173, 117, 57, 200]
+    difficult: false
+    id: 4
+    lost: false
+    occluded_fraction: 100.0
+    truncated_fraction: 0.0
+  - coords: [148, 59, 136, 338]
+    difficult: false
+    id: 5
+    lost: false
+    occluded_fraction: 0.0
+    truncated_fraction: 25.0
+  - coords: [315, 58, 117, 339]
+    difficult: false
+    id: 6
+    lost: false
+    occluded_fraction: 0.0
+    truncated_fraction: 0.0
+  - coords: [308, 107, 59, 243]
+    difficult: false
+    id: 7
+    lost: false
+    occluded_fraction: 25.0
+    truncated_fraction: 0.0
+epfl_corridor/20141008_141323_00/rgb000002:
+  person:
+  - coords: [174, 128, 73, 259]
+    difficult: false
+    id: 3
+    lost: false
+    occluded_fraction: 100.0
+    truncated_fraction: 0.0
+  - coords: [171, 117, 56, 200]
+    difficult: false
+    id: 4
+    lost: false
+    occluded_fraction: 100.0
+    truncated_fraction: 0.0
+  - coords: [144, 61, 136, 336]
+    difficult: false
+    id: 5
+    lost: false
+    occluded_fraction: 0.0
+    truncated_fraction: 25.0
+  - coords: [313, 59, 118, 338]
+    difficult: false
+    id: 6
+    lost: false
+    occluded_fraction: 0.0
+    truncated_fraction: 0.0
+  - coords: [305, 108, 62, 242]
+    difficult: false
+    id: 7
+    lost: false
+    occluded_fraction: 25.0
+    truncated_fraction: 0.0
